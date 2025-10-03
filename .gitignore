@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]estResults/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.psess
+*.vsp
+*.vspscc
+
+# Rider / JetBrains
+.idea/
+
+# Backup & crash
+*.bak
+*.swp
+*.tmp
+
+# Other
+*.pdb
+*.cache
+*.dbmdl
+*.jfm
+
+# Ignore license keys / config secrets
+appsettings.Development.json
