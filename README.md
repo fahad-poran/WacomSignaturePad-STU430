@@ -113,7 +113,7 @@ Visual Studio will generate interop assemblies like:
 - `Interop.FIWizCOMLib.dll`
 
 ---
-![Project Output](images/sigPadOutput.png)
+![Project Output](Images/sigPadOutput.png)
 
 ## 🖊️ Using the SDK in C#
 
